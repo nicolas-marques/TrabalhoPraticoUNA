@@ -1,0 +1,2324 @@
+[
+    {
+      "title": "Direção Defensiva",
+      "imagem": "livro",
+      "questionAwnsered": 1,
+      "level": "medio",
+      "question": [
+        {
+          "title": "A atitude prudente para se livrar de veículos “colados” na retaguarda é:",
+          "awnser": [
+            {
+              "title": "Desviar para a esquerda, alertando o outro condutor."
+              
+            },
+            {
+              "title": "Aumentar a velocidade em relação ao outro veículo."
+            },
+            {
+              "title": "Acender o pisca alerta, fazendo sinal de braço para o outro condutor."
+            },
+            {
+              "title": "Encostar para a direita da pista, reduzindo a velocidade se necessário, dando passagem para o veículo.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "É falso afirmar que, para melhor ser notado no trânsito, o condutor deve:",
+          "awnser": [
+            {
+              "title": "Ligar o limpador para-brisas frequentemente.",
+              "isRight": true
+            },
+            {
+              "title": "Acender os faróis ou lanternas externas nos períodos de lusco-fusco."
+            },
+            {
+              "title": " Utilizar o pisca-alerta e o triângulo de segurança quando parado nas margens das vias."
+            },
+            {
+              "title": "Manter o capô do motor aberto e o triângulo de segurança posicionado atrás, quando este apresentar defeito mecânico."
+              
+            }
+          ]
+        },
+        {
+            "title": "Automatismo correto significa:",
+            "awnser": [
+              {
+                "title": "Atenção fixa."
+                
+              },
+              {
+                "title": "Atenção dispersiva."
+              },
+              {
+                "title": "Gesto inconsciente efetuado de forma segura.",
+                "isRight": true
+              },
+              {
+                "title": "Indisciplina na condução do veículo."
+                          
+              }
+            ]
+          },
+          {
+            "title": "A principal causa da colisão frontal em vias retas é:",
+            "awnser": [
+              {
+                "title": "Retorno à esquerda."
+               
+              },
+              {
+                "title": "Ultrapassagem incorreta.",
+                "isRight": true
+              },
+              {
+                "title": "Conversão à direita."
+              },
+              {
+                "title": "Ausência de sinalização."
+                
+              }
+            ]
+          },
+          {
+            "title": "Assinale a alternativa incorreta relacionada ao comportamento do condutor preventivo:",
+            "awnser": [
+              {
+                "title": "Procura a melhor posição no banco para alcançar todos comandos."
+                
+              },
+              {
+                "title": "Regula retrovisores para ter maior visibilidade."
+              },
+              {
+                "title": "Nas manobras, move a cabeça lateralmente para ter maior visibilidade possível."
+              },
+              {
+                "title": "Ele não se preocupa com o ponto cego do retrovisor.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "Ao conduzir o veículo sob chuva de granizo, o condutor deve:",
+            "awnser": [
+              {
+                "title": "Aumentar a velocidade para passar rápido pela chuva."
+              },
+              {
+                "title": "Parar o veículo em local seguro e aguardar o término da chuva.",
+                "isRight": true
+              },
+              {
+                "title": "Ligar o pisca-alerta e parar o veículo imediatamente."
+              },
+              {
+                "title": "Parar o veículo debaixo de viaduto para evitar avaria na lataria do veículo."
+                
+              }
+            ]
+          },
+          {
+            "title": "Dirigindo um veículo, o condutor que encontrar crianças, pessoas idosas ou deficientes físicas atravessando a via deve:",
+            "awnser": [
+              {
+                "title": "Diminuir a velocidade, buzinar e seguir em frente."
+              },
+              {
+                "title": "Parar o veículo e facilitar a travessia.",
+                "isRight": true
+              },
+              {
+                "title": "Diminuir a velocidade, dar um sinal de luz e seguir em frente."
+              },
+              {
+                "title": "Diminuir a velocidade, desviar e seguir em frente."
+                
+              }
+            ]
+          },
+          {
+            "title": "É atitude do condutor defensivo, quando ingerir bebida alcoólica:",
+            "awnser": [
+              {
+                "title": "Dirigir redobrando os cuidados."
+              },
+              {
+                "title": "Dirigir somente se estiver acompanhado."
+              },
+              {
+                "title": "Tomar banho bem frio ou molhar a cabeça para despertar, antes de começar a dirigir."
+              },
+              {
+                "title": "Não dirigir o veículo, pedindo a outro condutor habilitado que realize tal atitude.",
+                "isRight": true
+                
+              }
+            ]
+          },
+          {
+            "title": "A soma de ações técnicas e atitudes que permitem prever e evitar acidentes, apesar das ações incorretas dos outros condutores, é chamada de:",
+            "awnser": [
+              {
+                "title": "Direção correta."
+              },
+              {
+                "title": "Direção corretiva."
+              },
+              {
+                "title": "Direção defensiva.",
+                "isRight": true
+              },
+              {
+                "title": "Direção de alto risco."
+                
+              }
+            ]
+          },
+          {
+            "title": "Assinale a alternativa INCORRETA. Dirigir na defensiva é:",
+            "awnser": [
+              {
+                "title": "Dirigir atento às ações dos demais usuários."
+              },
+              {
+                "title": "Dirigir impondo os seus direitos.",
+                "isRight": true
+              },
+              {
+                "title": "Dirigir com educação e segurança."
+              },
+              {
+                "title": "Dirigir respeitando a legislação."
+                
+              }
+            ]
+          },
+          {
+            "title": "“Horário de pico” é aquele com tráfego:",
+            "awnser": [
+              {
+                "title": "Disperso e com alta velocidade."
+              },
+              {
+                "title": "Denso e com baixa velocidade.",
+                "isRight": true
+              },
+              {
+                "title": "Desenvolvido ao final da madrugada e início do dia."
+              },
+              {
+                "title": "Menor em relação a movimentação de pedestres e veículos."
+                
+              }
+            ]
+          },
+          {
+            "title": "Entre outros efeitos, a ingestão de álcool pode provocar no condutor:",
+            "awnser": [
+              {
+                "title": "Visão difusa e agilidade."
+              },
+              {
+                "title": "Melhor capacidade de raciocínio lógico."
+              },
+              {
+                "title": "Diminuição da capacidade de visualização.",
+                "isRight": true
+              },
+              {
+                "title": "Melhora da capacidade de raciocínio."
+                
+              }
+            ]
+          },
+          {
+            "title": "Alguns fenômenos naturais reduzem a nossa capacidade visual e podem tornar-se tão extremos que nos impossibilitam ver outros veículos em condições adversas. A que esses fenômenos estão relacionados?",
+            "awnser": [
+              {
+                "title": "Luz."
+              },
+              {
+                "title": "Tempo.",
+                "isRight": true
+              },
+              {
+                "title": "Estrada."
+              },
+              {
+                "title": "Trânsito."
+                
+              }
+            ]
+          },
+          {
+            "title": "Direção defensiva leva o condutor a:",
+            "awnser": [
+              {
+                "title": "Dirigir com educação, segurança e eficiência.",
+                "isRight": true
+              },
+              {
+                "title": "Dirigir indiferentemente quanto aos demais usuários."
+              },
+              {
+                "title": "Dirigir com atenção dispersiva."
+              },
+              {
+                "title": "Dirigir com atenção fixa."
+                
+              }
+            ]
+          },
+          {
+            "title": "Ao dirigir em uma rodovia, ocorre uma situação de ventos laterais fortes. Nessa situação, você:",
+            "awnser": [
+              {
+                "title": "Fecha as janelas do veículo e continua com a mesma velocidade."
+              },
+              {
+                "title": "Abre a janela do veículo e continua com a mesma velocidade."
+              },
+              {
+                "title": "Reduz a marcha do veículo adotando uma velocidade compatível com a situação e abre os vidros.",
+                "isRight": true
+              },
+              {
+                "title": "Mantém a velocidade normal."
+                
+              }
+            ]
+          },
+          {
+            "title": "Ao aproximar-se de qualquer tipo de cruzamento, o condutor deve, exceto:",
+            "awnser": [
+              {
+                "title": "Manter a velocidade.",
+                "isRight": true
+              },
+              {
+                "title": "Transitar em velocidade reduzida."
+              },
+              {
+                "title": "Transitar em velocidade moderada."
+              },
+              {
+                "title": "Dar passagem a pedestres."
+                
+              }
+            ]
+          },
+          {
+            "title": "A finalidade da direção defensiva é a condução:",
+            "awnser": [
+              {
+                "title": "Em alta velocidade."
+              },
+              {
+                "title": " De forma educada e segura.",
+                "isRight": true
+              },
+              {
+                "title": "De automatismos incorretos."
+              },
+              {
+                "title": "Sem interferência do autocontrole."
+                
+              }
+            ]
+          },
+          {
+            "title": "Além de uma boa revisão no veículo, há outros cuidados a serem tomados para uma viagem tranquila e segura. Sobre isso, assinale a alternativa INCORRETA:",
+            "awnser": [
+              {
+                "title": "Deve-se ajudar a evitar acidentes facilitando a ultrapassagem."
+              },
+              {
+                "title": "Ficar atento aos sinais dos outros condutores."
+              },
+              {
+                "title": "Dar seta à esquerda para indicar condição segura para ultrapassagem ao veículo de trás.",
+                "isRight": true
+              },
+              {
+                "title": "Manter faróis baixos acesos durante o dia é recomendável."
+                
+              }
+            ]
+          },
+          {
+            "title": "“Enxergando” o perigo com antecedência, você estará:",
+            "awnser": [
+              {
+                "title": "Prevendo a falta de responsabilidade dos pedestres."
+              },
+              {
+                "title": "Prevendo a falta de responsabilidade dos outros motoristas."
+              },
+              {
+                "title": "Trafegando com margens de segurança."
+              },
+              {
+                "title": "Todas a afirmativas estão corretas.",
+                "isRight": true
+                
+              }
+            ]
+          },
+          {
+            "title": "A desaceleração brusca e o uso incorreto dos freios podem provocar o desgarramento da parte traseira do veículo. Este tipo de reação é chamada de comportamento:",
+            "awnser": [
+              {
+                "title": "Sub-esterçante."
+              },
+              {
+                "title": "Inseguro."
+              },
+              {
+                "title": "Sobre-esterçante.",
+                "isRight": true
+              },
+              {
+                "title": "Inadequado."
+                
+              }
+            ]
+          },
+          {
+            "title": "Dirigindo um veículo, o condutor que encontrar crianças, pessoas idosas ou portadores de deficiência atravessando a via deve:",
+            "awnser": [
+              {
+                "title": "Diminuir a velocidade, buzinar e seguir em frente."
+              },
+              {
+                "title": "Diminuir a velocidade, desviar e seguir em frente."
+              },
+              {
+                "title": "Parar o veículo e facilitar a travessia.",
+                "isRight": true
+              },
+              {
+                "title": "Parar o veículo e ajudá-los atravessar."
+                
+              }
+            ]
+          },
+          {
+            "title": "A maioria dos acidentes está associada à condição adversa do condutor. A grande maioria deles é causada por:",
+            "awnser": [
+              {
+                "title": "Falhas mecânicas."
+              },
+              {
+                "title": "Deficiência da via."
+              },
+              {
+                "title": "Falta de sinalização."
+              },
+              {
+                "title": "Falhas humanas.",
+                "isRight": true
+                
+              }
+            ]
+          },
+          {
+            "title": "Na direção defensiva, é o resultado da prática mais o treinamento:",
+            "awnser": [
+              {
+                "title": "Conhecimento."
+              },
+              {
+                "title": "Decisão."
+              },
+              {
+                "title": "Atenção."
+              },
+              {
+                "title": "Habilidade.",
+                "isRight": true
+                
+              }
+            ]
+          },
+          {
+            "title": "Não são técnicas adequadas para a realização de uma ultrapassagem segura:",
+            "awnser": [
+              {
+                "title": "Realizar sinalização e redobrar a atenção."
+              },
+              {
+                "title": "Manter distância de segurança, antes de iniciar a manobra."
+              },
+              {
+                "title": "Planejar o espaço necessário para a manobra completa."
+              },
+              {
+                "title": "Ultrapassar pelo acostamento quando o trânsito estiver muito lento.",
+                "isRight": true
+                
+              }
+            ]
+          },
+          {
+            "title": "Nas alternativas abaixo, podemos classificar como imprudência e negligência, respectivamente:",
+            "awnser": [
+              {
+                "title": "Falhas mecânicas previsíveis e alta velocidade."
+              },
+              {
+                "title": "Falhas mecânicas previsíveis e dirigir com sono."
+              },
+              {
+                "title": "Alta velocidade e desobediência à sinalização."
+              },
+              {
+                "title": "Alta velocidade e falhas mecânicas previsíveis.",
+                "isRight": true
+                
+              }
+            ]
+          },
+          {
+            "title": "Em uma situação de emergência, poucos condutores conseguem controlar a pressão sobre o pedal de freio. Na maioria das vezes, a força aplicada é superior ao atrito dos pneus com o solo. Isso provoca:",
+            "awnser": [
+              {
+                "title": "Travamento das rodas."
+              },
+              {
+                "title": "Derrapagem."
+              },
+              {
+                "title": "Distância maior de frenagem."
+              },
+              {
+                "title": "Todas estão corretas.",
+                "isRight": true
+                
+              }
+            ]
+          },
+          {
+            "title": "Com o acúmulo de água na pista pode ocorrer a aquaplanagem se o veículo estiver:",
+            "awnser": [
+              {
+                "title": "Em velocidade muito reduzida."
+              },
+              {
+                "title": "Em velocidade alta e pneus carecas.",
+                "isRight": true
+              },
+              {
+                "title": "Com problemas nos freios."
+              },
+              {
+                "title": "Com folga na direção."
+                
+              }
+            ]
+          },
+          {
+            "title": "São tipos de direção defensiva:",
+            "awnser": [
+              {
+                "title": "Disciplinar e Legal."
+              },
+              {
+                "title": "Preventiva e Corretiva.",
+                "isRight": true
+              },
+              {
+                "title": "Eficiente e Utilitária."
+              },
+              {
+                "title": "Segura e Insegura."
+                
+              }
+            ]
+          },
+          {
+            "title": "É comportamento do motociclista quando precisa reduzir a velocidade para imobilizar a motocicleta em semáforo:",
+            "awnser": [
+              {
+                "title": "Sinalizar fazendo gesto regulamentar do braço."
+              },
+              {
+                "title": "Observar pelo retrovisor se o condutor de trás está fazendo o mesmo."
+              },
+              {
+                "title": "Frear gradativamente."
+              },
+              {
+                "title": "Todas as afirmativas estão corretas.",
+                "isRight": true
+                
+              }
+            ]
+          },
+          {
+            "title": "O procedimento correto em um declive acentuado é:",
+            "awnser": [
+              {
+                "title": "Utilizar o ''ponto morto''."
+              },
+              {
+                "title": "Utilizar a mesma marcha que seria necessária no caso de um aclive acentuado.",
+                "isRight": true
+              },
+              {
+                "title": "Testar o acelerador e desengrenar o veículo."
+              },
+              {
+                "title": "Desligar o motor do veículo."
+                
+              }
+            ]
+          }
+      ]
+      
+    },
+  
+    {
+      "title": "Primeiros Socorros",
+      "imagem": "livro",
+      "questionAwnsered": 1,
+      "level": "medio",
+      "question": [
+          {
+              "title": "O procedimento correto, na impossibilidade da presença do socorro especializado, quando a vítima apresenta objeto empalado no ferimento, é:",
+              "awnser": [
+                {
+                  "title": "Proteger o ferimento com bandagens e retirar o objeto.",
+                  "isRight": true
+                },
+                {
+                  "title": "Proteger o ferimento com bandagens e não retirar o objeto."
+                },
+                {
+                  "title": "Remover o objeto empalado e controlar o sangramento."
+                },
+                {
+                  "title": "Remover o objeto empalado e lavar o ferimento com água e sabão."
+                }
+              ]
+            },
+            {
+              "title": "Não constitui procedimento correto com uma vítima em estado de choque:",
+              "awnser": [
+                {
+                  "title": "Dar bastante líquido à vítima inconsciente que vomitou.",
+                  "isRight": true
+                },
+                {
+                  "title": "Manter a vítima deitada com as pernas elevadas, se não houver fratura dos membros."
+                },
+                {
+                  "title": "frouxar suas roupas."
+                },
+                {
+                  "title": "Manter a respiração - se necessário usar respiração de socorro."
+                }
+              ]
+            },
+            {
+              "title": "O que é hemorragia interna?",
+              "awnser": [
+                {
+                  "title": "É a visível perda de sangue através de um ferimento localizado na superfície corporal."
+                  
+                },
+                {
+                  "title": "É uma fratura do osso."
+                },
+                {
+                  "title": "É a perda de sangue por um ferimento."
+                },
+                {
+                  "title": " É a consequência de um ferimento profundo com lesão de órgãos internos ou rompimento de veias ou artérias.",
+                  "isRight": true
+                }
+              ]
+            },
+            {
+              "title": "Em relação às condições adotadas durante o dia, a distância para sinalizar o local de um acidente à noite ou sob chuva deverá ser:",
+              "awnser": [
+                {
+                  "title": "Corresponde a mais 10 passos."
+                  
+                },
+                {
+                  "title": "A mesma."
+                },
+                {
+                  "title": "Dobrada e com a utilização de dispositivos luminosos.",
+                  "isRight": true
+                },
+                {
+                  "title": "Com chuva contamos no máximo 40 passos."
+                }
+              ]
+            },
+            {
+              "title": "O que é fratura exposta?",
+              "awnser": [
+                {
+                  "title": "Quando um pedaço do osso atravessa a pele, ficando exposto externamente.",
+                  "isRight": true
+                },
+                {
+                  "title": "Luxação externa."
+                },
+                {
+                  "title": "Lesão onde o músculo aparece entre a pele."
+                },
+                {
+                  "title": "Fratura parcial dos ossos."
+                }
+              ]
+            },
+            {
+              "title": "O trabalho de remoção de um acidentado deve ser feito por pessoal especializado, com equipamentos apropriados. Mas se numa emergência, esse transporte precisar ser feito por você, qual procedimento pode ser considerado inadequado?",
+              "awnser": [
+                {
+                  "title": "Verificar se há deformações na coluna vertebral."
+                  
+                },
+                {
+                  "title": "Improvisar uma marca para transporte do acidentado."
+                },
+                {
+                  "title": "Remover a vítima do local de maneira mais rápida possível, pois esta necessita de atendimento urgente.",
+                  "isRight": true
+                },
+                {
+                  "title": "Evitar freadas bruscas e excesso de velocidade que podem agravar o estado da vítima."
+                  
+                }
+              ]
+            },
+            {
+              "title": "Num acidente observamos que o ferimento de uma vítima esguicha sangue no mesmo ritmo de sua pulsação. Conclui-se que ocorreu o corte de:",
+              "awnser": [
+                {
+                  "title": "Uma veia.",
+                  "isRight": true
+                },
+                {
+                  "title": "Uma artéria."
+                },
+                {
+                  "title": "Um músculo."
+                },
+                {
+                  "title": "Um nervo."
+                  
+                }
+              ]
+            },
+            {
+              "title": "Ao examinar uma vítima de acidente, você detecta que ela apresenta temperatura elevada. Nessa situação, não se deve:",
+              "awnser": [
+                {
+                  "title": "Colocar compressas úmidas nas axilas."
+                  
+                },
+                {
+                  "title": "Aquecer com cobertores para diminuir calafrios.",
+                  "isRight": true
+                },
+                {
+                  "title": "Fazer banhos de imersão à temperatura corporal."
+                },
+                {
+                  "title": "Aplicar compressas frias sobre a testa."
+                  
+                }
+              ]
+            },
+            {
+              "title": "Em determinada situação, que era necessário contar 60 passos longos para sinalizar o local de um acidente e na contagem de 30 passos longos a pessoa que estava sinalizando encontrou uma curva, ela deve:",
+              "awnser": [
+                {
+                  "title": "Parar a contagem, caminhar até o fim da curva e recomeçar a contagem a partir do zero."
+                  
+                },
+                {
+                  "title": "Continuar a contagem normalmente."
+                },
+                {
+                  "title": "Aumentar mais 10 passos na contagem."
+                },
+                {
+                  "title": "Parar de contar e, após a curva, recomeçar de onde parou até contar os 60 passos.",
+                  "isRight": true
+                }
+              ]
+            },
+            {
+              "title": "O sinal vital que não varia com a idade é:",
+              "awnser": [
+                {
+                  "title": "Temperatura.",
+                  "isRight": true
+                  
+                },
+                {
+                  "title": "Pulso."
+                },
+                {
+                  "title": "Respiração."
+                },
+                {
+                  "title": "Pressão arterial."
+                }
+              ]
+            },
+            {
+              "title": "Em acidentes de trânsito: afastar os curiosos, desligar o motor do veículo envolvido e orientar para que não fumem no local – são ações do socorrista na possibilidade de ocorrência de:",
+              "awnser": [
+                {
+                  "title": "Atropelamento."
+                  
+                },
+                {
+                  "title": "Derramamento de combustível.",
+                  "isRight": true
+                },
+                {
+                  "title": "Obstáculo na pista."
+                },
+                {
+                  "title": "Cabos de eletricidade caindo no local."
+                }
+              ]
+            },
+            {
+              "title": "Como proceder diante de um motociclista acidentado?",
+              "awnser": [
+                {
+                  "title": "Tirar o capacete imediatamente."
+                  
+                },
+                {
+                  "title": "Não retirar o capacete, porque movimentar a cabeça pode agravar uma lesão na coluna, e esperar o resgate.",
+                  "isRight": true
+                },
+                {
+                  "title": "Mover o motociclista para o passeio."
+                },
+                {
+                  "title": "Dar água para passar o susto."
+                }
+              ]
+            },
+            {
+              "title": "Não constitui procedimento correto diante de acidente de trânsito, com vítima:",
+              "awnser": [
+                {
+                  "title": "Arrastar a vítima do local do acidente.",
+                  "isRight": true
+                  
+                },
+                {
+                  "title": "Sinalizar o local, para evitar novos acidentes."
+                },
+                {
+                  "title": "Acionar o pisca-alerta dos veículos próximo ao local."
+                },
+                {
+                  "title": "Definir a melhor colocação do triângulo."
+                }
+              ]
+            },
+            {
+              "title": "Em um acidente de trânsito com vítima, o que se deve fazer:",
+              "awnser": [
+                {
+                  "title": "Tentar conversar com a vítima.",
+                  "isRight": true
+                  
+                },
+                {
+                  "title": "Movimentar a vítima."
+                },
+                {
+                  "title": "Fazer torniquete."
+                },
+                {
+                  "title": "Retirar o capacete, no caso de motociclista."
+                }
+              ]
+            },
+            {
+              "title": "Ao socorrer a vítima de acidente de trânsito, qual das providências abaixo é incorreta?",
+              "awnser": [
+                {
+                  "title": "Não se preocupar com a distância a ser sinalizada. Estar perto da vítima é o mais importante.",
+                  "isRight": true
+                },
+                {
+                  "title": "Se o motor de um dos veículos estiver funcionando, desligue-o imediatamente."
+                  
+                },
+                {
+                  "title": "Acionar o freio de estacionamento."
+                },
+                {
+                  "title": "Ligar o pisca-alerta do veículo"
+                }
+              ]
+            },
+            {
+              "title": "Em um acidente com vítimas, quando possível, devemos manter o tráfego fluindo por vários motivos. Para a vítima, o motivo mais importante é:",
+              "awnser": [
+                {
+                  "title": "Não atrapalhar os usuários da via."
+                  
+                },
+                {
+                  "title": "Não congestionar a via."
+                },
+                {
+                  "title": "Não atrasar os compromissos dos motoristas."
+                },
+                {
+                  "title": "Possibilitar a chegada mais rápida de uma equipe de socorro.",
+                  "isRight": true
+                }
+              ]
+            },
+            {
+              "title": "Embora cada acidente tenha suas particularidades, algumas medidas são padrão, dentre elas podemos destacar:",
+              "awnser": [
+                {
+                  "title": "Aliviar a dor, oferecendo analgésico à vítima."
+                  
+                },
+                {
+                  "title": "Acionar o socorro especializado.",
+                  "isRight": true
+                },
+                {
+                  "title": "Transportar a vítima em qualquer situação."
+                },
+                {
+                  "title": "Oferecer líquido à vítima."
+                }
+              ]
+            },
+            {
+              "title": "Observar se existem ferimentos na cabeça, tórax, abdômen, queimadura, fraturas e se há lesão na coluna. Ao efetuar estes procedimentos, o socorrista está realizando uma análise:",
+              "awnser": [
+                {
+                  "title": "Primária."
+                  
+                },
+                {
+                  "title": "De risco."
+                },
+                {
+                  "title": "Secundária.",
+                  "isRight": true
+                },
+                {
+                  "title": "De rotina."
+                }
+              ]
+            },
+            {
+              "title": "As lesões da coluna vertebral são algumas das principais consequências dos acidentes de trânsito. O que fazer para não as agravar?",
+              "awnser": [
+                {
+                  "title": "Remover a pessoa para a calçada."
+                  
+                },
+                {
+                  "title": "Anotar a placa ou correr atrás do carro que atropelou."
+                },
+                {
+                  "title": "Tentar chamar algum parente da vítima."
+                },
+                {
+                  "title": "Não movimentar a vítima e aguardar o socorro profissional.",
+                  "isRight": true
+                }
+              ]
+            },
+            {
+              "title": "Em um acidente a vítima está dentro do veículo que tem fumaça em seu interior. Nesta situação, o que fazer após chegar à conclusão de que não há risco pessoal?",
+              "awnser": [
+                {
+                  "title": "Retirar a pessoa de dentro do carro, após imobilizá-la da melhor forma possível.",
+                  "isRight": true
+                  
+                },
+                {
+                  "title": "Deixar a vítima sentada dentro do veículo e oferecer muito leite a ela, aguardando a dissipação da fumaça."
+                },
+                {
+                  "title": "Afastar-se rapidamente chamando o resgate."
+                },
+                {
+                  "title": "Jogar água no veículo e até na vítima para resfriar o local."
+                }
+              ]
+            },
+            {
+              "title": "Ao transportar uma vítima é incorreto:",
+              "awnser": [
+                {
+                  "title": "Manter a vítima em jejum."
+                  
+                },
+                {
+                  "title": "Transportar a vítima imobilizada."
+                },
+                {
+                  "title": " Manter, a qualquer custo, a vítima acordada.",
+                  "isRight": true
+                },
+                {
+                  "title": "Manter as vias aéreas livres, desobstruídas."
+                }
+              ]
+            },
+            {
+              "title": "Ao socorrer uma vítima com estilhaços de vidro no olho, você deve:",
+              "awnser": [
+                {
+                  "title": "Pingar colírio anestésico."
+                  
+                },
+                {
+                  "title": "Retira com pinça os estilhaços de vidro."
+                },
+                {
+                  "title": "Tampar o olho da vítima e levá-la ao hospital.",
+                  "isRight": true
+                },
+                {
+                  "title": "Lavar o olho com água e sabão."
+                }
+              ]
+            },
+            {
+              "title": "Ao atender as vítimas de uma colisão entre dois carros, a pessoa que socorre deverá soltar o cinto de segurança, sem movimentar o corpo delas. Apenas quando:",
+              "awnser": [
+                {
+                  "title": "As vítimas se queixarem de dor no corpo todo."
+                  
+                },
+                {
+                  "title": "O cinto de segurança está dificultando a respiração.",
+                  "isRight": true
+                },
+                {
+                  "title": "Achar que deve."
+                },
+                {
+                  "title": "O cinto for de 3 pontos."
+                }
+              ]
+            },
+            {
+              "title": "São tipos de hemorragia:",
+              "awnser": [
+                {
+                  "title": "Hemorragia externa e interna.",
+                  "isRight": true
+                  
+                },
+                {
+                  "title": "Hemorragia aberta e fechada."
+                },
+                {
+                  "title": "Hemorragia externa e aberta."
+                },
+                {
+                  "title": "Hemorragia interna e fechada."
+                }
+              ]
+            },
+            {
+              "title": "Em caso de acidente:",
+              "awnser": [
+                {
+                  "title": "É obrigação de todos sempre prestar auxílio à vítima, mesmo que não saiba fazer."
+                  
+                },
+                {
+                  "title": "É obrigação de todos prestarem auxílio, desde que não haja risco pessoal.",
+                  "isRight": true
+                },
+                {
+                  "title": "É obrigação de todos prestarem auxílio, mesmo com risco pessoal."
+                },
+                {
+                  "title": "Não existe obrigação legal em socorrer."
+                }
+              ]
+            },
+            {
+              "title": "Não constitui procedimento correto com uma vítima em estado de choque:",
+              "awnser": [
+                {
+                  "title": "Manter a vítima deitada com as pernas elevadas, se não houver fratura dos membros inferiores."
+                  
+                },
+                {
+                  "title": "Afrouxar suas roupas no pescoço, peito e cintura."
+                },
+                {
+                  "title": "Controlar a respiração e manter a boa ventilação."
+                },
+                {
+                  "title": "Dar bastante líquido à vítima inconsciente, que vomitou.",
+                  "isRight": true
+                }
+              ]
+            },
+            {
+              "title": "Indica incapacidade de movimentar pernas e braços após um acidente:",
+              "awnser": [
+                {
+                  "title": "Traumatismo craniano."
+                  
+                },
+                {
+                  "title": "Politraumatismo."
+                },
+                {
+                  "title": "Lesão na coluna.",
+                  "isRight": true
+                },
+                {
+                  "title": "Lesão na cabeça."
+                }
+              ]
+            },
+            {
+              "title": "O que não causa a parada respiratória é:",
+              "awnser": [
+                {
+                  "title": "Soterramento."
+                  
+                },
+                {
+                  "title": "Afogamento."
+                },
+                {
+                  "title": "Perfuração no pulmão."
+                },
+                {
+                  "title": "Fratura no fêmur.",
+                  "isRight": true
+                }
+              ]
+            },
+            {
+              "title": "Existem certas ações de emergência que podem ser realizadas por mais de um socorrista. Nos casos em que a vítima, além de não respirar, sofre parada cardíaca que deve ser aplicada massagem cardíaca associada à respiração artificial. A ressuscitação cardiopulmonar funciona melhor se executada por:",
+              "awnser": [
+                {
+                  "title": "3 pessoas."
+                  
+                },
+                {
+                  "title": "1 pessoa."
+                },
+                {
+                  "title": "4 pessoas."
+                },
+                {
+                  "title": "2 pessoas.",
+                  "isRight": true
+                }
+              ]
+            },
+            {
+              "title": "Por que é importante para o condutor ter conhecimentos de Primeiros Socorros?",
+              "awnser": [
+                {
+                  "title": "Para se automedicar em caso de acidente."
+                  
+                },
+                {
+                  "title": "Para saber o que fazer em caso de acidente de trânsito, protegendo as vítimas contra males maiores.",
+                  "isRight": true
+                },
+                {
+                  "title": "Para dispensar o socorro médico em caso de acidentes de trânsito."
+                },
+                {
+                  "title": "Alternativas '1' e '3' estão corretas."
+                }
+              ]
+            }
+            
+      ]
+  },
+    
+  {
+    "title": "Meio Ambiente e Cidadania",
+    "imagem": "livro",
+    "questionAwnsered": 1,
+    "level": "medio",
+    "question": [
+        {
+            "title": "Poluição ambiental é a alteração desfavorável do meio ambiente pelos subprodutos e resíduos químicos resultantes de atos da atividade humana. Suas consequências são:",
+            "awnser": [
+              {
+                "title": "Aumento da produtividade industrial."
+                
+              },
+              {
+                "title": "Degradação da natureza.",
+                "isRight": true
+              },
+              {
+                "title": "Benefícios aos rios e mares."
+              },
+              {
+                "title": "Melhoria dos seres humanos."
+              }
+            ]
+          },
+          {
+            "title": "A queima incompleta de fuligem, pode causar:",
+            "awnser": [
+              {
+                "title": "Alergia."
+                
+              },
+              {
+                "title": "Asma."
+              },
+              {
+                "title": "Bronquite crônica."
+              },
+              {
+                "title": "Todas as afirmativas estão corretas.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "A educação para o trânsito é um direito de todos e tem por finalidade primordial:",
+            "awnser": [
+              {
+                "title": "A formação dos infratores contumazes."
+                
+              },
+              {
+                "title": "Reciclar os trabalhadores da área de trânsito."
+              },
+              {
+                "title": "Educar o comportamento dos condutores e pedestres para que haja respeito e cidadania no trânsito.",
+                "isRight": true
+              },
+              {
+                "title": "Treinar candidatos à obtenção da CNH."
+              }
+            ]
+          },
+          {
+            "title": "Quando o acidente envolve cargas perigosas e liberação de produtos químicos no meio ambiente, deve-se primeiramente:",
+            "awnser": [
+              {
+                "title": "Isolar rapidamente o local, avaliar os riscos secundários e para si mesmo, depois tentar o socorro.",
+                "isRight": true
+                
+              },
+              {
+                "title": "Acionar um caminhão pipa para jogar água, limpar e liberar rapidamente a rodovia."
+              },
+              {
+                "title": "Tentar liberar parte da rodovia sinalizando o local."
+              },
+              {
+                "title": "Se não houver risco de explosão, socorrer as vítimas sem outros receios."
+              }
+            ]
+          },
+          {
+            "title": "É o gás incolor, sem cheiro ou gosto, resultante da queima incompleta de combustíveis:",
+            "awnser": [
+              {
+                "title": "O monóxido de carbono.",
+                "isRight": true
+                
+              },
+              {
+                "title": "Os hidrocarbonetos."
+              },
+              {
+                "title": "Os óxidos de nitrogênio."
+              },
+              {
+                "title": "O gás de ozônio."
+              }
+            ]
+          },
+          {
+            "title": "Assinale a alternativa incorreta:",
+            "awnser": [
+              {
+                "title": "O ozônio funciona como um filtro solar, protegendo a vida."
+                
+              },
+              {
+                "title": "O ozônio é um gás que reage com os gases oriundos dos sprays."
+              },
+              {
+                "title": "A destruição da camada de ozônio pode provocar câncer de pele, através da exposição."
+              },
+              {
+                "title": "O ozônio é um gás sem utilidade para o meio ambiente.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "O gás clorofluorcarbono (CFC) utilizado como propelente em vários tipos de sprays, chips de computadores e solventes usados pela indústria eletrônica. É um dos poluentes responsáveis pela ocorrência:",
+            "awnser": [
+              {
+                "title": "Do aumento de temperatura."
+                
+              },
+              {
+                "title": "Da redução da camada de ozônio.",
+                "isRight": true
+              },
+              {
+                "title": "Da chuva ácida."
+              },
+              {
+                "title": "Do efeito estufa."
+              }
+            ]
+          },
+          {
+            "title": "Somos cidadãos, quando:",
+            "awnser": [
+              {
+                "title": "Percebemos atitudes inadequadas dos outros e ignoramos as nossas."
+                
+              },
+              {
+                "title": "Buzinamos para avisar o condutor da frente que o sinal está aberto."
+              },
+              {
+                "title": "Temos um comportamento positivo e eficaz, contribuindo para a segurança de todos.",
+                "isRight": true
+              },
+              {
+                "title": "Só estacionamos em local proibido quando por alguns segundos."
+              }
+            ]
+          },
+          {
+            "title": "A poluição do ar causa problemas de saúde que resultam, principalmente em:",
+            "awnser": [
+              {
+                "title": "Doenças do aparelho digestivo."
+                
+              },
+              {
+                "title": "Doenças respiratórias.",
+                "isRight": true
+              },
+              {
+                "title": "Alterações visuais."
+              },
+              {
+                "title": "Dores de cabeça."
+              }
+            ]
+          },
+          {
+            "title": "Indica que o veículo está produzindo níveis de poluição acima do permitido:",
+            "awnser": [
+              {
+                "title": "Escapamento com fuligem."
+                
+              },
+              {
+                "title": "Cheiro de combustível no motor."
+              },
+              {
+                "title": "Consumo excessivo de combustível."
+              },
+              {
+                "title": "Todas acima.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "Substâncias infectantes são aquelas que:",
+            "awnser": [
+              {
+                "title": "Contém micro-organismos infecciosos.",
+                "isRight": true
+                
+              },
+              {
+                "title": "Alteram sua propriedade com o calor."
+              },
+              {
+                "title": "Contém corrosivos."
+              },
+              {
+                "title": "Liberam gás carbônico."
+              }
+            ]
+          },
+          {
+            "title": "",
+            "awnser": [
+              {
+                "title": "A qualidade ou estado de cidadão.",
+                "isRight": true
+                
+              },
+              {
+                "title": "O conjunto de elementos naturais e a vida em todas as formas."
+              },
+              {
+                "title": "O desenvolvimento desequilibrado do cidadão."
+              },
+              {
+                "title": "O meio ambiente hostil."
+              }
+            ]
+          },
+          {
+            "title": "O sistema de descarga é responsável por evitar, além do barulho, o consumo excessivo de combustível. Se há fumaça preta saindo da descarga do veículo é indício de que:",
+            "awnser": [
+              {
+                "title": "Existe excesso de gás na câmara de combustão."
+                
+              },
+              {
+                "title": "O motor está com boa compressão."
+              },
+              {
+                "title": "O motor está queimando mais combustível que o normal.",
+                "isRight": true
+              },
+              {
+                "title": "O condutor está acelerando mais do que devia."
+              }
+            ]
+          },
+          {
+            "title": "Para reduzir a emissão de poluentes do ar, causados pelos veículos, é incorreto afirmar que se deve:",
+            "awnser": [
+              {
+                "title": "Fazer uso de dispositivo de controle de emissão de gases (catalisador)."
+                
+              },
+              {
+                "title": "Incentivar o uso de gás natural."
+              },
+              {
+                "title": "Regular periodicamente o motor do veículo."
+              },
+              {
+                "title": " Incentivar o transporte individual por veículos automotivos.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "Agir com cortesia e solidariedade no trânsito significa:",
+            "awnser": [
+              {
+                "title": "Fazer novos amigos."
+                
+              },
+              {
+                "title": "Respeitar os direitos dos outros usuários das vias e ser tolerante.",
+                "isRight": true
+              },
+              {
+                "title": "Dar passagem aos outros condutores, ainda que o sinal esteja aberto para você"
+              },
+              {
+                "title": "Sair do veículo e ajudar os pedestres a atravessar a rua."
+              }
+            ]
+          },
+          {
+            "title": "No interior de túneis extensos é aconselhável instalar exaustores, porque nesse ambiente acumula-se:",
+            "awnser": [
+              {
+                "title": "Partículas de fumaça, somente."
+                
+              },
+              {
+                "title": "Gases tóxicos, somente."
+              },
+              {
+                "title": "Partículas de vapor d'água, somente."
+              },
+              {
+                "title": "Gases e partículas de fumaça.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "Alguns dispositivos existentes em seu veículo têm a finalidade de diminuir a poluição lançada ao ambiente. Isso é feito através da redução do consumo de combustível e melhor controle na emissão de gases poluentes. Qual dispositivo não agrega às funções acima mencionadas?",
+            "awnser": [
+              {
+                "title": "A injeção eletrônica."
+                
+              },
+              {
+                "title": "A sonda lambda."
+              },
+              {
+                "title": "O catalisador."
+              },
+              {
+                "title": "O carburador.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "O trânsito pode provocar os seguintes problemas ambientais:",
+            "awnser": [
+              {
+                "title": "Poluição sonora."
+                
+              },
+              {
+                "title": "Poluição hídrica."
+              },
+              {
+                "title": "Poluição atmosférica."
+              },
+              {
+                "title": "Todas as alternativas acima.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "O condutor no trânsito deve ter percepção e respeito às expectativas das pessoas, adotando uma postura adequada, sendo:",
+            "awnser": [
+              {
+                "title": "Agressivo e rápido."
+                
+              },
+              {
+                "title": "Decidido e agressivo."
+              },
+              {
+                "title": "Cuidadoso e ligeiro."
+              },
+              {
+                "title": "Cuidadoso e atento.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "A emissão de sons, ruídos e vibrações que prejudicam a saúde e o bem-estar público, estão relacionados com a:",
+            "awnser": [
+              {
+                "title": "Poluição sonora.",
+                "isRight": true
+                
+              },
+              {
+                "title": "Poluição do solo."
+              },
+              {
+                "title": "Poluição da água."
+              },
+              {
+                "title": "Poluição do ar."
+              }
+            ]
+          },
+          {
+            "title": "A segurança no trânsito é um direito:",
+            "awnser": [
+              {
+                "title": "Dos ciclistas apenas."
+                
+              },
+              {
+                "title": "Dos motoristas de ônibus apenas."
+              },
+              {
+                "title": "Dos motociclistas apenas."
+              },
+              {
+                "title": "De todo cidadão.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "Assinale a alternativa INCORRETA. A matéria prima para produção do álcool (etanol) no Brasil é:",
+            "awnser": [
+              {
+                "title": "Cana-de-açúcar."
+                
+              },
+              {
+                "title": "Milho."
+              },
+              {
+                "title": "Metanol.",
+                "isRight": true
+              },
+              {
+                "title": "Eucalipto."
+              }
+            ]
+          },
+          {
+            "title": "Substâncias corrosivas são aquelas:",
+            "awnser": [
+              {
+                "title": "Que causam danos ambientais.",
+                "isRight": true
+                
+              },
+              {
+                "title": "Que não apresentam riscos para os seres vivos."
+              },
+              {
+                "title": "Que não contém micro-organismos infecciosos."
+              },
+              {
+                "title": "Que não oferecem perigo em contato com a pele."
+              }
+            ]
+          },
+          {
+            "title": "O excesso de anúncios afixados em pontos estratégicos é uma poluição:",
+            "awnser": [
+              {
+                "title": "Dispersiva."
+                
+              },
+              {
+                "title": "Visual.",
+                "isRight": true
+              },
+              {
+                "title": "Provocativa."
+              },
+              {
+                "title": "Deficiente."
+              }
+            ]
+          },
+          {
+            "title": "São fatores que contribuem para melhorar o meio ambiente:",
+            "awnser": [
+              {
+                "title": "Todas as alternativas estão corretas.",
+                "isRight": true
+                
+              },
+              {
+                "title": "Fazer manutenção periódica no veículo."
+              },
+              {
+                "title": "Reciclagem de materiais."
+              },
+              {
+                "title": "Redução de gases poluentes através da colocação de filtros."
+              }
+            ]
+          },
+          {
+            "title": "O condutor para transportar um produto perigoso deve passar pelo Curso de Treinamento, denominado:",
+            "awnser": [
+              {
+                "title": "DD - Direção Defensiva, somente."
+                
+              },
+              {
+                "title": "TPP - Transporte de Produtos Perigosos.",
+                "isRight": true
+              },
+              {
+                "title": "PS - Primeiros Socorros, apenas."
+              },
+              {
+                "title": "MA - Meio Ambiente, somente."
+              }
+            ]
+          },
+          {
+            "title": "Em caso de acidente com veículo transportando produtos inflamáveis, o procedimento correto do condutor é:",
+            "awnser": [
+              {
+                "title": "Providenciar, o mais rápido possível, o escoamento do produto."
+                
+              },
+              {
+                "title": "Sinalizar o local com tochas de fogo."
+              },
+              {
+                "title": "Efetuar, primeiramente, a limpeza do veículo."
+              },
+              {
+                "title": "A via deve ser interditada e todo local evacuado.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "Conversor catalítico (catalisador), instalado no coletor de escapamento do veículo, é um:",
+            "awnser": [
+              {
+                "title": "Acelerador de moléculas binárias opostas aos gases de escapamento."
+                
+              },
+              {
+                "title": "Filtro dos gases do escapamento que separa o vapor dos gases."
+              },
+              {
+                "title": "Transforma os gases tóxicos mais nocivos."
+              },
+              {
+                "title": "Transformador dos gases tóxicos em gases não-nocivos ao meio ambiente.",
+                "isRight": true
+              }
+            ]
+          },
+          {
+            "title": "Um veículo para transportar substâncias tóxicas precisa, dentre outros, de:",
+            "awnser": [
+              {
+                "title": "Contar com a presença de dois condutores, alternadamente."
+                
+              },
+              {
+                "title": "Possuir certificado de Capacitação do INMETRO.",
+                "isRight": true
+              },
+              {
+                "title": "Ser equipado com extintor de oxigênio puro."
+              },
+              {
+                "title": "Tanque com refrigeração."
+              }
+            ]
+          },
+          {
+            "title": "Os ruídos emitidos pelo funcionamento do motor de um veículo são controlados pelo:",
+            "awnser": [
+              {
+                "title": "Carburador."
+                
+              },
+              {
+                "title": "Radiador."
+              },
+              {
+                "title": "Catalisador."
+              },
+              {
+                "title": "Silenciador.",
+                "isRight": true
+              }
+            ]
+          }
+          
+    ]
+},
+
+{
+  "title": "Mecânica básica de Veículos",
+  "imagem": "livro",
+  "questionAwnsered": 1,
+  "level": "medio",
+  "question": [
+      {
+          "title": "O conjunto que atua nas curvas fazendo com que uma roda gire mais ou menos do que a outra, chama-se:",
+          "awnser": [
+            {
+              "title": "Embreagem."
+              
+            },
+            {
+              "title": "Árvore de transmissão."
+            },
+            {
+              "title": "Diferencial.",
+              "isRight": true
+            },
+            {
+              "title": "Caixa de câmbio."
+            }
+          ]
+        },
+        {
+          "title": "Ao utilizar um veículo com motor ainda frio, deve-se:",
+          "awnser": [
+            {
+              "title": "Pressionar o acelerador até o assoalho do veículo antes de dar a partida."
+              
+            },
+            {
+              "title": "Acelerar bastante para atingir a temperatura ideal."
+            },
+            {
+              "title": "Evitar acelerações bruscas até o motor atingir a temperatura ideal.",
+              "isRight": true
+            },
+            {
+              "title": "Aguardar a temperatura ideal dos pneus antes de sair."
+            }
+          ]
+        },
+        {
+          "title": "O extintor de incêndio é equipamento obrigatório:",
+          "awnser": [
+            {
+              "title": "Para os veículos automotores, exceto motocicletas."
+              
+            },
+            {
+              "title": "Somente por ocasião do licenciamento do veículo."
+            },
+            {
+              "title": "Caminhão, caminhão-trator, micro-ônibus, veículos destinados a transporte de produtos inflamáveis e de coletivo de passageiros.",
+              "isRight": true
+            },
+            {
+              "title": "Apenas para veículos novos."
+            }
+          ]
+        },
+        {
+          "title": "A peça que fecha a parte inferior do motor e serve como reservatório e coletor de óleo lubrificante chama-se:",
+          "awnser": [
+            {
+              "title": "Tampão."
+              
+            },
+            {
+              "title": "Tanque de combustível."
+            },
+            {
+              "title": "Cárter.",
+              "isRight": true
+            },
+            {
+              "title": "Pistão."
+            }
+          ]
+        },
+        {
+          "title": "O tempo do motor no qual a mistura se inflama, chama-se:",
+          "awnser": [
+            {
+              "title": "Admissão."
+              
+            },
+            {
+              "title": "Compressão."
+            },
+            {
+              "title": "Descarga."
+            },
+            {
+              "title": "Explosão.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "Para reduzir o consumo de combustível e a poluição do meio ambiente é recomendável:",
+          "awnser": [
+            {
+              "title": "Manter o sistema de alimentação regulado.",
+              "isRight": true
+              
+            },
+            {
+              "title": "Efetuar troca das pastilhas de freios."
+            },
+            {
+              "title": "Efetuar troca do óleo lubrificante."
+            },
+            {
+              "title": "Verificar a carga da bateria."
+            }
+          ]
+        },
+        {
+          "title": "O conjunto de peças que serve para ligar e desligar a força motriz à caixa de marchas, chama-se:",
+          "awnser": [
+            {
+              "title": "Volante do motor."
+              
+            },
+            {
+              "title": "Embreagem.",
+              "isRight": true
+            },
+            {
+              "title": "Diferencial."
+            },
+            {
+              "title": "Semi-árvore."
+            }
+          ]
+        },
+        {
+          "title": "Fazem parte da embreagem:",
+          "awnser": [
+            {
+              "title": "Platô, disco de fricção e rolamento da embreagem.",
+              "isRight": true
+              
+            },
+            {
+              "title": "Junta homocinética e pivôs."
+            },
+            {
+              "title": "Pedal e câmbio."
+            },
+            {
+              "title": "Molas e amortecedores."
+            }
+          ]
+        },
+        {
+          "title": "A finalidade da suspensão e dos amortecedores é:",
+          "awnser": [
+            {
+              "title": "Manter as características da fábrica do veículo."
+              
+            },
+            {
+              "title": "Contribuir para o desgaste prematuro dos pneus."
+            },
+            {
+              "title": "Causar a perda de controle do veículo."
+            },
+            {
+              "title": "Manter a estabilidade do veículo.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "Pneus dianteiros com calibragem muito abaixo do normal podem acarretar:",
+          "awnser": [
+            {
+              "title": "Todas as opções estão corretas.",
+              "isRight": true
+              
+            },
+            {
+              "title": "Desgastes prematuros dos mesmos."
+            },
+            {
+              "title": "Estabilidade comprometida."
+            },
+            {
+              "title": "Dificuldades nas manobras."
+            }
+          ]
+        },
+        {
+          "title": "O defeito mais comum no carburador caracteriza-se por:",
+          "awnser": [
+            {
+              "title": "Velas queimadas."
+              
+            },
+            {
+              "title": "Filtro de ar furado."
+            },
+            {
+              "title": "Entupimento.",
+              "isRight": true
+            },
+            {
+              "title": "Tanque de combustível furado."
+            }
+          ]
+        },
+        {
+          "title": "No motor a combustão, a mistura ar-combustível é lançada dentro do cilindro, resultando em energia que movimenta o veículo. Mas existem exceções quanto aos componentes utilizados. Qual tipo de motor dispensa distribuidor, velas e bobina?",
+          "awnser": [
+            {
+              "title": "A álcool."
+              
+            },
+            {
+              "title": "A diesel.",
+              "isRight": true
+            },
+            {
+              "title": "A Gás Natural Veicular."
+            },
+            {
+              "title": "À gasolina."
+            }
+          ]
+        },
+        {
+          "title": "A falta de balanceamento das rodas pode acarretar:",
+          "awnser": [
+            {
+              "title": "Direção dura."
+              
+            },
+            {
+              "title": "Trepidações no volante.",
+              "isRight": true
+            },
+            {
+              "title": "Rangido dos pneus nas curvas."
+            },
+            {
+              "title": "Chassi deformado."
+            }
+          ]
+        },
+        {
+          "title": "Mesmo sabendo ser uma infração, muitas pessoas cortam as molas do veículo para deixá-lo mais baixo. Esse procedimento prejudica diretamente:",
+          "awnser": [
+            {
+              "title": "A estabilidade do veículo.",
+              "isRight": true
+              
+            },
+            {
+              "title": "O desempenho das lonas."
+            },
+            {
+              "title": "As peças móveis do motor."
+            },
+            {
+              "title": "A vida útil do disco de fricção."
+            }
+          ]
+        },
+        {
+          "title": "Ao acionar a chave de ignição e o motor do veículo não dar sinal de partida, o defeito pode ser:",
+          "awnser": [
+            {
+              "title": "Falta de combustível."
+              
+            },
+            {
+              "title": "Falta de água no radiador."
+            },
+            {
+              "title": "Na bateria ou motor de arranque.",
+              "isRight": true
+            },
+            {
+              "title": "Entupimento no carburador."
+            }
+          ]
+        },
+        {
+          "title": "Antes de efetuar uma viagem, o condutor deverá verificar os itens:",
+          "awnser": [
+            {
+              "title": "Luzes indicadoras de direção e luzes de freio."
+              
+            },
+            {
+              "title": "Nível de óleo lubrificante e água do radiador."
+            },
+            {
+              "title": "Palhetas do limpador de para-brisas e funcionamento dos faróis."
+            },
+            {
+              "title": "Todas as alternativas estão corretas.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "A peça mais pesada do motor chama-se:",
+          "awnser": [
+            {
+              "title": "Cilindros ou camisas."
+              
+            },
+            {
+              "title": "Bloco do motor.",
+              "isRight": true
+            },
+            {
+              "title": "Tampão."
+            },
+            {
+              "title": "Cárter."
+            }
+          ]
+        },
+        {
+          "title": "A estabilidade do veículo também está condicionada aos pneus. O condutor deve conferir regularmente:",
+          "awnser": [
+            {
+              "title": "A calibragem dos pneus."
+              
+            },
+            {
+              "title": "O desgaste dos pneus."
+            },
+            {
+              "title": "A existência de possíveis deformações na carcaça."
+            },
+            {
+              "title": "Todas acima estão corretas.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "Assinale a alternativa correta sobre a Luz Indicadora de Direção (seta):",
+          "awnser": [
+            {
+              "title": "É a luz do veículo destinada a aumentar a iluminação da via em caso de neblina, chuva forte ou nuvens de pó."
+              
+            },
+            {
+              "title": "É a luz do veículo destinada a indicar aos demais usuários da via que o condutor tem propósito de mudar de direção para a direita ou para a esquerda.",
+              "isRight": true
+            },
+            {
+              "title": "É a luz que se encontram atrás do veículo, que o condutor está aplicando o freio de serviço."
+            },
+            {
+              "title": "É o facho de luz do veículo destinada a iluminação a via até uma grande distância do veículo."
+            }
+          ]
+        },
+        {
+          "title": "Para que ocorra a combustão interna em um motor são necessários os seguintes elementos:",
+          "awnser": [
+            {
+              "title": "Combustível e água."
+              
+            },
+            {
+              "title": "Combustível e vapor de água."
+            },
+            {
+              "title": "Ar e combustível.",
+              "isRight": true
+            },
+            {
+              "title": "Água e Nitrogênio."
+            }
+          ]
+        },
+        {
+          "title": "Amperímetro, odômetro, botão de luzes e do limpador de para-brisas são:",
+          "awnser": [
+            {
+              "title": "Componentes externos do painel."
+              
+            },
+            {
+              "title": "Órgãos auxiliares do motor."
+            },
+            {
+              "title": "Equipamentos obrigatórios."
+            },
+            {
+              "title": "Instrumentos do painel.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "Instrumento do painel que indica a temperatura do motor:",
+          "awnser": [
+            {
+              "title": "Amperímetro."
+              
+            },
+            {
+              "title": "Termômetro.",
+              "isRight": true
+            },
+            {
+              "title": "Odômetro."
+            },
+            {
+              "title": "Manômetro."
+            }
+          ]
+        },
+        {
+          "title": "A finalidade do filtro de combustível é:",
+          "awnser": [
+            {
+              "title": "Controlar a pressão do combustível."
+              
+            },
+            {
+              "title": "Evitar o excesso de combustível."
+            },
+            {
+              "title": "Reter as impurezas do ar."
+            },
+            {
+              "title": "Reter as impurezas do combustível.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "A função do silenciador no veículo é:",
+          "awnser": [
+            {
+              "title": "Criar a centelha necessária para a explosão da mistura de ar e combustível."
+              
+            },
+            {
+              "title": "Permitir uma partida suave do veículo."
+            },
+            {
+              "title": "Diminuir os ruídos gerados pelas explosões do carburante no motor.",
+              "isRight": true
+            },
+            {
+              "title": "Reduzir, drasticamente, os níveis de emissão de gases."
+            }
+          ]
+        },
+        {
+          "title": "O instrumento do painel que indica a velocidade desenvolvida pelo veículo é o:",
+          "awnser": [
+            {
+              "title": "Odômetro."
+              
+            },
+            {
+              "title": "Tacógrafo."
+            },
+            {
+              "title": "Velocímetro.",
+              "isRight": true
+            },
+            {
+              "title": "Manômetro."
+            }
+          ]
+        },
+        {
+          "title": "As motocicletas, em sua maioria, são equipadas com espelhos convexos. Se você olhar um veículo através de um espelho convexo, a posição correta deste veículo é:",
+          "awnser": [
+            {
+              "title": "Distância real."
+              
+            },
+            {
+              "title": "Não há distinção entre espelho convexo e os demais."
+            },
+            {
+              "title": "Mais distante do que aquela em que você pensa que ele está."
+            },
+            {
+              "title": "Mais próxima do que aquela em que você pensa que ele está.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "A indústria automobilística está em constante aperfeiçoamento nos veículos modernos. A direção que ajuda a diminuir o esforço físico é: ",
+          "awnser": [
+            {
+              "title": "Dinâmica."
+              
+            },
+            {
+              "title": "Normal."
+            },
+            {
+              "title": "Elétrica.",
+              "isRight": true
+            },
+            {
+              "title": "Mecânica."
+            }
+          ]
+        },
+        {
+          "title": "As duas válvulas permanecem fechadas em qual(is) dos tempos do motor?",
+          "awnser": [
+            {
+              "title": "Admissão."
+              
+            },
+            {
+              "title": "Explosão.",
+              "isRight": true
+            },
+            {
+              "title": "Compressão."
+            },
+            {
+              "title": "As afirmativas 1 e 2 estão corretas."
+            }
+          ]
+        },
+        {
+          "title": "A baixa calibragem dos pneus:",
+          "awnser": [
+            {
+              "title": "Aumenta a sua vida útil."
+              
+            },
+            {
+              "title": "Facilita as manobras."
+            },
+            {
+              "title": "Traz maior conforto aos ocupantes do veículo."
+            },
+            {
+              "title": "Causa seu desgaste prematuro.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "Airbag é um equipamento obrigatório para prevenir:",
+          "awnser": [
+            {
+              "title": "Superaquecimento do motor."
+              
+            },
+            {
+              "title": "Problemas de postura."
+            },
+            {
+              "title": "Ferimentos graves em casos de colisão.",
+              "isRight": true
+            },
+            {
+              "title": "Falhas eletrônicas."
+            }
+          ]
+        }
+        
+  ]
+}
+]
+
+

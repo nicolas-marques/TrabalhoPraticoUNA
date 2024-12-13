@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Pessoa, Pessoa Física, Pessoa Jurídica</title>
+</head>
+<body>
+    <script>
+        class Pessoa{
+            #nome;
+            constructor(nome){
+                this.nome = nome;
+            }
+
+            set substituirNome(nome){
+                this.#nome = nome;
+            }
+
+            get lerNome(){
+                return this.nome;
+            }
+        }
+
+        class pessoaFisica extends Pessoa{
+            #cpf;
+            constructor(nome, cpf){
+                super(nome);
+                this.#cpf = cpf;
+            }
+
+            set lerCpf(cpf){
+                this.#cpf = cpf;
+            }
+
+            get getCpf(){
+                return this.#cpf;
+            }
+        }
+
+        class pessoaJuridica extends Pessoa{
+            #cnpj;
+            constructor(nome, cnpj){
+                super(nome);
+                this.#cnpj = cnpj;
+            }
+
+            set lerCnpj(cnpj){
+                this.#cnpj = cnpj;
+            }
+
+            get getCnpj(){
+                return this.#cnpj;
+            }
+        }
+
+        let pf = new pessoaFisica(prompt("Informe o nome da pessoa física", "nome"), prompt("Informe o CPF", "cpf"));
+        let pj = new pessoaJuridica(prompt("Informe o nome da pessoa jurídica", "nome"), prompt("Informe o CNPJ", "cnpj"));
+
+        document.write (`Nome: ${pf.lerNome} CPF: ${pf.getCpf }<br><br>`);
+        document.write (`Nome: ${pj.lerNome} CNPJ: ${pj.getCnpj}<br><br><hr/>`);
+        
+    </script>
+    
+</body>
+</html>

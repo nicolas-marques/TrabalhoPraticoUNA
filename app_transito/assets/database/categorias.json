@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Direção Defensiva",
+    "imagem": "livro",
+    "questionAwnsered": 1,
+    "level": "medio",
+    "question": [
+      {
+        "title": "A atitude prudente para se livrar de veículos “colados” na retaguarda é:",
+        "awnser": [
+          {
+            "title": "Desviar para a esquerda, alertando o outro condutor."
+          },
+          {
+            "title": "Aumentar a velocidade em relação ao outro veículo."
+          },
+          {
+            "title": "Acender o pisca alerta, fazendo sinal de braço para o outro condutor."
+          },
+          {
+            "title": "Encostar para a direita da pista, reduzindo a velocidade se necessário, dando passagem para o veículo.",
+            "isRight": true
+          }
+        ]
+      },
+      {
+        "title": "É falso afirmar que, para melhor ser notado no trânsito, o condutor deve:",
+        "awnser": [
+          {
+            "title": "Ligar o limpador para-brisas frequentemente.",
+            "isRight": true
+          },
+          {
+            "title": "Acender os faróis ou lanternas externas nos períodos de lusco-fusco."
+          },
+          {
+            "title": " Utilizar o pisca-alerta e o triângulo de segurança quando parado nas margens das vias."
+          },
+          {
+            "title": "Manter o capô do motor aberto e o triângulo de segurança posicionado atrás, quando este apresentar defeito mecânico."
+          }
+        ]
+      }
+    ]
+  }
+]

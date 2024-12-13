@@ -1,0 +1,76 @@
+html,
+body{
+    font: size 16px;
+}
+
+div{
+    background: linear-gradient(AliceBlue, #9198e5);
+    width: 50vw;
+    height: 4rem;
+    border-radius: 4px;
+    padding-top: 8px;
+    margin-bottom: 24px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+}
+
+p{
+    background: linear-gradient(AliceBlue, #9198e5);
+    width: 50vw;
+    height: 4rem;
+    border-radius: 4px;
+    padding-top: 8px;
+    margin-bottom: 24px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+}
+
+body{
+    margin-left: 350px;
+}
+
+h1{
+    width: 50vw;
+    height: 4rem;
+    border-radius: 4px;
+    padding-top: 8px;
+    margin-bottom: 24px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+}
+
+button{
+    width: 50vw;
+    height: 4rem;
+    border-radius: 4px;
+    padding-top: 8px;
+    margin-bottom: 24px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+}
+
+.numero1{
+    text-align: center;
+    position: absolute;
+    width:6rem;
+    display: inline-block;
+    position: relative;
+    border-radius: 4px;
+}
+
+.numero2{
+    text-align: center;
+    position: absolute;
+    width:6rem;
+    display: inline-block;
+    position: relative;
+    border-radius: 4px;
+}

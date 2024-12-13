@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cadastro de Funcionários</title>
+</head>
+
+<body>
+  <script>
+    var i = 0,
+        soma = 0,
+        resp = true;
+        empresa = {};
+
+        empresa.funcionario = [];
+
+        do {
+           empresa.funcionario[i] = {};
+           empresa.funcionario[i].nome = prompt("Informe o nome do funcionário:", "nome");
+           empresa.funcionario[i].salario = parseFloat(prompt("Informe o salário do funcionário:", "salário"));
+
+           i++;
+           resp = confirm("Deseja inserir outro funcionário?");
+        } while (resp == true);
+
+        var empresaJSON = JSON.stringify(empresa);
+        document.write("Funcionários: <br>" + empresaJSON);
+
+        empresa.funcionario.forEach(imprimir);
+
+        function imprimir(funcionario, i){
+          soma += funcionario.salario;
+          document.write("<br><br>" + i + " - " + "Salario: " + funcionario.salario + " - Soma: " + soma);0
+        }
+  </script>
+</body>
+
+</html>

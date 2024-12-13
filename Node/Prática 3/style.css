@@ -1,0 +1,20 @@
+html,
+div{
+    background-color: rgb(245, 97, 11);
+}
+
+h2{
+    color: white;
+}
+
+li{
+    color: white
+}
+
+.button-site{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border: 0;
+}

@@ -1,0 +1,40 @@
+name: app_transito
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^5.0.0
+  google_fonts: ^2.0.0
+  share_plus: ^2.0.1
+  http: ^0.13.0
+  carousel_slider: ^3.0.0
+  get: ^4.1.4
+  modal_bottom_sheet: ^2.0.0
+  firebase_core: ^1.1.0
+  cloud_firestore: ^2.2.1
+  geoflutterfire: ^3.0.0-nullsafety.2
+  geolocator: ^7.0.3
+  google_maps_flutter: ^2.0.3
+  cached_network_image: ^3.0.0
+  dio: ^4.0.0
+  
+  
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/database/
+    
+  uses-material-design: true

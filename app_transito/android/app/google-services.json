@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045023610511",
+    "project_id": "projetoapptransito",
+    "storage_bucket": "projetoapptransito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045023610511:android:cab30a436907c3ab0b42fa",
+        "android_client_info": {
+          "package_name": "projetoAppTransito.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045023610511-0arduml7p14v7fuu6clal55tsr0iurjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0B8ycKx8DGHe79R1SuBxVRVyarax3zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045023610511-0arduml7p14v7fuu6clal55tsr0iurjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
